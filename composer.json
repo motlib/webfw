@@ -1,0 +1,8 @@
+{
+    "name": "motlib/webfw",
+    "autoload": {
+        "psr-0" : {
+            "Motlib\\WebFW" : "src"
+        }
+    }
+}
