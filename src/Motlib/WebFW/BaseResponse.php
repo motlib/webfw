@@ -1,6 +1,6 @@
 <?php
 
-namespace WebFw;
+namespace Motlib\WebFW;
 
 /**
  * Interface for response objects that can be handled (sent out) by

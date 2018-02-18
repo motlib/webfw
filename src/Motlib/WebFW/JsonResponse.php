@@ -1,6 +1,6 @@
 <?php
 
-namespace WebFw;
+namespace Motlib\WebFW;
 
 require_once('utils.php');
 

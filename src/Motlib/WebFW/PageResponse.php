@@ -1,6 +1,6 @@
 <?php
 
-namespace WebFw;
+namespace Motlib\WebFW;
 
 /**
  * Implementation of a response object to embed HTML content in the page

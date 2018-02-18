@@ -1,6 +1,6 @@
 <?php
 
-namespace WebFw;
+namespace Motlib\WebFW;
 
 use \Exception;
 use \Error;

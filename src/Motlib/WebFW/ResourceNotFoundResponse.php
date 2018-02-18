@@ -1,6 +1,6 @@
 <?php
 
-namespace WebFw;
+namespace Motlib\WebFW;
 
 class ResourceNotFoundResponse extends BaseResponse {
 
